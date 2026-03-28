@@ -1,6 +1,6 @@
 # 🏦 FinChat: The Golden Standard Finance
 
-[![Status](https://img.shields.io/badge/Status-Terminal_Ativo-gold?style=for-the-badge)](https://seu-link-do-lovable.app)
+[![Status](https://img.shields.io/badge/Status-Terminal_Ativo-gold?style=for-the-badge)](https://ai-purse-pal.lovable.app)
 
 > **Engenharia Financeira de Alta Precisão.** Um terminal inteligente que processa linguagem natural para gestão de ativos e controle de fluxo de caixa com estética de luxo.
 
